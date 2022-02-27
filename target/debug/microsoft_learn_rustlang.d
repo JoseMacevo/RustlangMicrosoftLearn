@@ -1,0 +1,1 @@
+/mnt/f/Development/Rust-Lang/microsoft_learn_rustlang/target/debug/microsoft_learn_rustlang: /mnt/f/Development/Rust-Lang/microsoft_learn_rustlang/src/main.rs /mnt/f/Development/Rust-Lang/microsoft_learn_rustlang/src/panic.rs
